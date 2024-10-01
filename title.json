@@ -1,0 +1,10 @@
+{
+    "title": "Microcredenciales UNRN",
+    "img" : "./public/logo_unrn.png",
+    "category" : "Hackathon",
+    "description" : "Caso de uso basado en las microcredenciales como acreditación de conocimientos dentro de la Universidad Nacional de Río Negro.",
+    "team" : "UNRN BW3" ,
+    "members" : ["Mauro Cambarieri", "Michelle Jauge","María Sofía Rached Galera", "Fernando Gonzales", "Carlos Farra", "Jonathan Leder"],  
+    "demonstrationVideo" : "https://drive.google.com/file/d/1vD-SJSwPECn9C2Qh-zn6IGLw6qwlRWLq/view?usp=sharing",
+    "githubRepo" : "https://github.com/rachedsofia/Extrimian---Hackalong.git"
+}
